@@ -6,4 +6,4 @@ cd 4.9
 
 ls
 
-python mrx-Enc.pyc
+python Mrx-Enc.pyc
